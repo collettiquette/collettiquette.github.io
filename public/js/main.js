@@ -1,7 +1,7 @@
 window.onload = function() {
   var stage = new Kinetic.Stage({
     container: 'starstuff',
-    width: 1000,
+    width: 800,
     height: 600
   });
   var layer = new Kinetic.Layer();
@@ -23,8 +23,8 @@ window.onload = function() {
 
   //planets
   var planets = {};
-  planets['offsetsx'] = [75, -125, 150, 200, -275, 300];
-  planets['offsetsy'] = [10, -10, 15, -25, 50, 0];
+  planets['offsetsx'] = [75, -125, 150, 200, -275, 310];
+  planets['offsetsy'] = [10, -10, 15, -25, 50, 5];
   planets['sizes'] = [10, 15, 15, 35, 40, 25];
   planets['colors'] = ["red", "orange", "brown", "green", "blue", "purple"];
   planets['rotation_speeds'] = [20, 40, 45, 70, 90, 110]
