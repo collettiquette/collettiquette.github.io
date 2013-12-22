@@ -1,0 +1,42 @@
+a {
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #1D7EFF;
+}
+
+.block {
+  display: inline-block;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#info {
+  margin-top: 75px;
+  position: absolute;  
+}
+
+li {
+  padding: 10px;
+  font-size: 25px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.row {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
