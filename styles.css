@@ -1,0 +1,17 @@
+body {
+  color: #FFFFFF;
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.block {
+  width: 50%;
+  display: inline-block;
+}
