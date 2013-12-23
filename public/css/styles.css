@@ -12,9 +12,9 @@ a:hover {
 }
 
 body {
+  background-color:#000000;
   font-family: 'Josefin Sans', sans-serif;
   color: #FFFFFF;
-  background-color: #000000;
 }
 
 h1 {
@@ -33,11 +33,5 @@ li {
 
 p {
   font-size: 25px;
-}
-
-.row {
-  text-align: center;
-  width: 100%;
-  margin: 0 auto;
 }
 
